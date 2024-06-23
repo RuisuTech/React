@@ -1,3 +1,3 @@
 # React
 
-Una Store sencilla para comenzar a conocer react :D
+Una Store sencilla para comenzar a conocer react y practicar :D
